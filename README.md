@@ -4,7 +4,7 @@
 
 ## Tampilan Program (Screenshot)
 
-![Tampilan Program C++ Text Analyzer](cpp-text-analyzer/screenshot/Screenshot%202025-06-28%20095703.jpg)
+![Tampilan Program C++ Text Analyzer](cpp-text-analyzer/screenshot/Screenshot%202025-06-28%20095703.png)
 
 ## Fitur Utama (Features)
 
